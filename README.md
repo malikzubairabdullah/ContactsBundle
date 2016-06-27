@@ -15,9 +15,9 @@ This bundle is developed for manage employees contacts with their office locatio
 * Quick Filters
 
 #### Screenshots
-![alt text](https://github.com/Zubairabdullah/ContactsBundle/blob/master/Resources/public/images/contacts-screen.jpg "Screenshot")
+![alt text](https://github.com/malikzubairabdullah/ContactsBundle/blob/master/Resources/public/images/contacts-screen.jpg "Screenshot")
 
-![alt text](https://github.com/Zubairabdullah/ContactsBundle/blob/master/Resources/public/images/bulk-contacts-import.png "Screenshot")
+![alt text](https://github.com/malikzubairabdullah/ContactsBundle/blob/master/Resources/public/images/bulk-contacts-import.png "Screenshot")
 
 
 ## Installation.
@@ -36,7 +36,7 @@ new Zubair\ContactsBundle\ZubairContactsBundle();
 ## Reporting an issue or feature request.
 
 Issues and feature requests are tracked in the 
-[Github issue tracker](https://github.com/Zubairabdullah/ContactsBundle/issues).
+[Github issue tracker](https://github.com/malikzubairabdullah/ContactsBundle/issues).
 
 
 How to contribute?
@@ -51,4 +51,4 @@ This software is licensed under the MIT license. See the complete license file i
 ```
 Resources/meta/LICENSE
 ```
-[Read the License](https://github.com/Zubairabdullah/ContactsBundle/blob/master/Resources/meta/LICENSE)
+[Read the License](https://github.com/malikzubairabdullah/ContactsBundle/blob/master/Resources/meta/LICENSE)
