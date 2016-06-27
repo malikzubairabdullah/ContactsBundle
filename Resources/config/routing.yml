@@ -1,0 +1,3 @@
+_Zubair_contacts_urls:
+  resource: "@ZubairContactsBundle/Controller"
+  type: annotation
